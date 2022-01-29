@@ -343,7 +343,7 @@ body{
 }
 
 .platform-image-wrapper .photo{
-    width: 45%;
+    width: 50%;
 }
 
 .platform-image-wrapper .photo:first-child{
@@ -366,7 +366,7 @@ img{
         width: 100%;
         margin: 0 auto;
         justify-content: center;
-        padding-top: 30px;
+        padding-top: 0px;
     }
 
 }
