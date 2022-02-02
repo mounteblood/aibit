@@ -417,6 +417,11 @@ img{
     .wrapper-banner{
         padding: 40px 0;
     }
+    .platform-image-wrapper .photo img{
+        width: 110%;
+        height: 100%;
+        margin-top: 105px;
+    }
 
 }
 
@@ -570,6 +575,7 @@ img{
 
     .platform-image-wrapper .photo img{
         width: 100%;
+        margin-top: 10px;
     }
 
 }
